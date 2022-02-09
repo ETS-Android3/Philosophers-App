@@ -1,0 +1,191 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".Philosopher">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:background="@drawable/background_rotate">
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="4dp"
+            android:layout_marginTop="10dp"
+
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <ImageView
+
+                android:id="@+id/picture_pilosopher"
+                android:layout_width="150dp"
+                android:layout_height="180dp"
+                android:layout_gravity="center"
+                android:background="@android:drawable/dialog_holo_light_frame" />
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+
+                    android:text="@string/autor_textview"
+                    android:id="@+id/first_textview"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="14dp"
+
+                    android:gravity="center_vertical"
+
+                    android:layout_gravity="left"
+                    android:background="@android:drawable/dialog_holo_light_frame"/>
+
+                <TextView
+
+                    android:text="@string/description_textview"
+                    android:id="@+id/second_textview"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:padding="14dp"
+                    android:layout_gravity="left"
+
+                    android:background="@android:drawable/dialog_holo_light_frame"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:orientation="horizontal"
+                    android:background="@android:drawable/dialog_holo_light_frame">
+
+                    <TextView
+
+                        android:layout_marginTop="2dp"
+                        android:layout_marginStart="8dp"
+                        android:text="@string/first_text_checkbox"
+                        android:id="@+id/first_text_checkbox"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
+
+                    <CheckBox
+
+                        android:id="@+id/first_checkbox"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        tools:ignore="TouchTargetSizeCheck" />
+
+                </LinearLayout>
+
+                <LinearLayout
+
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:orientation="horizontal"
+                    android:background="@android:drawable/dialog_holo_light_frame">
+
+                    <TextView
+
+                        android:layout_marginTop="2dp"
+                        android:layout_marginStart="8dp"
+                        android:text="@string/second_text_checkbox"
+                        android:id="@+id/second_text_checkbox"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
+
+                    <CheckBox
+
+                        android:id="@+id/second_checkbox"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        tools:ignore="TouchTargetSizeCheck" />
+
+                </LinearLayout>
+
+                <LinearLayout
+
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:orientation="horizontal"
+                    android:background="@android:drawable/dialog_holo_light_frame">
+
+                    <TextView
+
+                        android:layout_marginTop="2dp"
+                        android:layout_marginStart="8dp"
+                        android:text="@string/third_text_checkbox"
+                        android:id="@+id/third_text_checkbox"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
+
+                    <CheckBox
+
+                        android:id="@+id/third_checkbox"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        tools:ignore="TouchTargetSizeCheck" />
+
+                </LinearLayout>
+
+                <LinearLayout
+
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:orientation="horizontal"
+                    android:background="@android:drawable/dialog_holo_light_frame">
+
+                    <TextView
+
+                        android:layout_marginTop="2dp"
+                        android:layout_marginStart="8dp"
+                        android:text="@string/fourth_text_checkbox"
+                        android:id="@+id/fourth_text_checkbox"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
+
+                    <CheckBox
+
+                        android:id="@+id/fourth_checkbox"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>

@@ -1,0 +1,88 @@
+<resources>
+
+    <string name="app_name">PEC2_App_Lista_Detalle</string>
+
+    <string name="first_text_checkbox"></string>
+    <string name="second_text_checkbox"></string>
+    <string name="third_text_checkbox"></string>
+    <string name="fourth_text_checkbox"></string>
+
+    <string name="autor_textview"></string>
+    <string name="description_textview"></string>
+    <string name="book_name_textview"/>
+    <string name="book_description_textview"/>
+
+    <string name="email_textview">Email: example@hotmail.com</string>
+    <string name="twitter_textview">Twitter: _@example</string>
+    <string name="phone_textview">Phone number: 655555555</string>
+    <string name="facebook_textview">Facebook account: example@hotmail.com</string>
+
+    <string name="first_philopher">Aristóteles</string>
+    <string name="second_philospher">René Descartes</string>
+    <string name="third_philosopher">John Locke</string>
+    <string name="fourth_philosopher">Immanuel Kant</string>
+    <string name="fifth_philosopher">Platon</string>
+
+    <string name="first_description">Fue un filósofo, matemático y físico francés considerado el padre de la geometría analítica y la filosofía moderna, así como uno de los protagonistas con luz propia en el umbral de la revolución científica.</string>
+    <string name="second_description">Fue un filósofo, polímata y científico nacido en la ciudad de Estagira, al norte de la Antigua Grecia. Es considerado junto a Platón, el padre de la filosofía occidental. Sus ideas han ejercido una enorme influencia sobre la historia intelectual de Occidente por más de dos milenios.</string>
+    <string name ="third_description">Fue un filósofo y médico inglés, considerado como uno de los más influyentes pensadores del empirismo inglés y conocido como el «Padre del Liberalismo Clásico». Fue uno de los primeros empiristas británicos. Influido por las ideas de Francis Bacon, realizó una importante contribución a la teoría del contrato social.</string>
+    <string name="fourth_description">Fue un filósofo y científico prusiano de la Ilustración. Fue el primero y más importante representante del criticismo y precursor del idealismo alemán. Es considerado como uno de los pensadores más influyentes de la Europa moderna y de la filosofía universal.</string>
+    <string name="fifth_description">Fue un filósofo griego seguidor de Sócrates y maestro de Aristóteles En 387 a. C. Escribió sus obras, mayoritariamente en forma de diálogo, sobre los más diversos temas, tales como: filosofía política, ética, psicología, antropología filosófica, epistemología, gnoseología, metafísica, cosmogonía, cosmología, filosofía del lenguaje y filosofía de la educación.</string>
+
+    <string name="book_1">Ética a Nicómaco</string>
+    <string name="book_2">Política</string>
+    <string name="book_3">Retórica</string>
+    <string name="book_4">Metafísica</string>
+
+    <string name="book_5">El discurso del método</string>
+    <string name="book_6">Meditaciones metafísicas</string>
+    <string name="book_7">El tratado de la luz</string>
+    <string name="book_8">Las pasiones del alma</string>
+
+    <string name="book_9">Ensayo y carta sobre la tolerancia</string>
+    <string name="book_10">Tratado del gobierno civil</string>
+    <string name="book_11">La Ley de la Naturaleza</string>
+    <string name="book_12">La razonabilidad del cristianismo</string>
+
+    <string name="book_13">Crítica de la razón pura</string>
+    <string name="book_14">Crítica de la razón práctica</string>
+    <string name="book_15">Crítica del juicio</string>
+    <string name="book_16">Metafísica de las constumbres</string>
+
+    <string name="book_17">Teeteto</string>
+    <string name="book_18">República</string>
+    <string name="book_19">Timeo</string>
+    <string name="book_20">Fedro</string>
+
+    <string name="description_book_1">El tema de la obra es una cuestión socrática previamente explorada en las obras de Platón, sobre cómo deben vivir los hombres. Modo de vida lo denomino como eudaimonia, el cual se basaba en la contemplación teórica de temas nobles como la ciencia y la filosofía.</string>
+    <string name="description_book_2">Consiste en varios libros donde Aristoteles habla de la ciudad (polis) en comparación con otros tipos de comunidades, asociaciones tales como la familia y el pueblo, se examinan las diversas opiniones sobre el mejor régimen, trata de quién debe ser considerado como ciudadano, sobre las tareas y funciones de las teorías políticas, la teoría general  de la ciudad perfecta, sobre las constituciones democráticas, sobre el mejor Estado y la mejor vida, sobre la educación en el Estado ideal y su rol.</string>
+    <string name="description_book_3">La Retórica aristotélica ‑conjunto de nociones estéticas, literarias, lógicas, psicológicas y éticas‑ consta de tres libros: el primero, tras la introducción, trata de los conocimientos y de las técnicas del orador; el segundo describe las pasiones y los sentimientos del oyente; el tercero se ocupa de la elaboración y de las propiedades del discurso.</string>
+    <string name="description_book_4">La Metafísica, uno de los tratados fundamentales de Aristóteles (384-322 a. C.), tuvo como genesis un conjunto de escritos independientes, cuya finalidad original era sobre todo educativa. Así pues, por su naturaleza, la Metafísica no puede considerarse tanto la exposición de un sistema perfectamente acabado como una obra que aborda diferentes temas a lo largo de catorce libros.</string>
+
+    <string name="description_book_5">Consta de seis partes. La primera parte se ocupa de la ciencia de su tiempo. La segunda parte quiere poner remedio a esta situación de las ciencias proporcionándoles una metodología, un fundamento firme. La tercera parte del Discurso del método contiene las denominadas máximas de la moral provisional. En la cuarta el encuentro con la certeza, con la primera afirmación indubitable. En la quinta parte, Descartes expone algunas aplicaciones de su método científico a los estudios físicos. La sexta y última parte nos narra la elaboración de la  obra.</string>
+    <string name="description_book_6">Las meditaciones metafísicas de Descartes tienen como principal objetivo la demostración de Dios mediante razonamientos lógicos y de definir las bases del conocimiento del momento con el fin de disponerlo sobre unas bases más sólidas de las que había hasta entonces,también estudiará la naturaleza dual del hombre compuesta por la “res cogitans” (pensamiento) y la “res extensa” (cuerpo).</string>
+    <string name="description_book_7">René Descartes realizó a partir de la filosofía corpuscular de los atomistas un serio intento de levantar un edificio filosófico global que pudiera enfrentarse de tú a tú a la filosofía aristotélica que respaldaba la tradicional concepción del mundo y en el que todos los fenómenos del universo se pueden explicar mediante los ilustrados principios de materia y movimiento sin recurso a fuerzas ocultas.</string>
+    <string name="description_book_8">Descartes concibió Las pasiones del alma (París, 1649) como un tratado sobre la virtud y la felicidad, sin embargo, su enfoque es innovador: el ser humano no es una mente instalada en una máquina, es interacción de estados anímicos y corporales. En su equilibrio consiste la felicidad.</string>
+
+    <string name="description_book_9">Son una serie de cartas que el filósofo John Locke publicó entre los años 1689 y 1690, que ofrecen en buena medida las bases ideológicas esenciales para su teoría política expuesta por las mismas fechas en Dos tratados sobre el gobierno civil.</string>
+    <string name="description_book_10">Los Dos tratados sobre el gobierno civil son una obra de filosofía política publicada anónimamente en 1689 por John Locke. El primer tratado es un ataque al patriarcalismo, y el segundo introduce una teoría de la sociedad política o civil basada en los derechos naturales y en el contrato social.</string>
+    <string name="description_book_11">Para Locke, en el estado de naturaleza todos los hombres son libres \"para que cada uno ordene sus acciones y disponga posesiones y personas como juzgue oportuno, dentro de los límites de la ley de la naturaleza. El estado de naturaleza tiene una ley de naturaleza que lo gobierna y esa ley es la razón.</string>
+    <string name="description_book_12">Es una obra de trascendencia clave para comprender los fenómenos del mundo moderno. Más allá de su significación teológica como explicación de la diferencia entre una secta y una religión, aporta el descubrimiento de la categoría clave de credibilidad.</string>
+
+    <string name="description_book_13">Kant comienza la obra aceptando la existencia de juicios sintéticos a priori en la física y la matemática; entonces existen esos juicios. Lo que va a indagar es «cómo son posibles esos juicios» cuya existencia es, según él, «obvia». Para, a partir de esa investigación, ver si es posible la existencia de este tipo de juicios en la metafísica (lo cual tendrá una respuesta negativa).</string>
+    <string name="description_book_14">El uso teórico de la razón se ocupaba de objetos de la mera facultad de conocer, y una crítica de la razón, en lo que toca a ese uso, se refería propiamente sólo a la facultad pura del conocimiento, porque esta facultad despertaba sospechas, que luego también se confirmaron, de que se perdía fácilmente, más allá de sus límites, en inaccesibles objetos o hasta en conceptos contradictorios entre sí.</string>
+    <string name="description_book_15">Esta reflexión acerca de la obra Crítica del juicio del filósofo Immanuel Kant centra sus comentarios en conceptos de índole visual aplicables a disciplinas como el arte y el diseño gráfico. Algunas de sus ideas son contrastadas con diversos ejemplos propios de la cultura visual contemporánea, con la intención de explicar los hallazgos del autor cuestionando algunas de las aseveraciones que, aunque muy valiosas, no han podido soportar el paso del tiempo.</string>
+    <string name="description_book_16">Publicado en 1785, Kant concibe su investigación como un trabajo de éticas fundamentales, una que despeja el camino para futuras investigaciones al explicar los conceptos centrales y los principios de una teoría moral, mostrando que éstos son normativos para agentes racionales.</string>
+
+    <string name="description_book_17">Es un diálogo escrito por Platón que trata sobre la naturaleza del saber y consta de una introducción y tres partes.</string>
+    <string name="description_book_18">Está compuesta por 10 libros en los que reflexiona, entre otras cosas, sobre qué es justicia, cómo es un Estado justo y qué funciones tiene el hombre en la constitución de un Estado ideal.</string>
+    <string name="description_book_19">El Timeo es un diálogo donde Platón adopta la forma narrativa del mito para exponer la formación del cosmos.</string>
+    <string name="description_book_20">Este libro se llama así porque es un diálogo permanente entre Fedro y Sócrates, diálogo en el cual discuten diversos aspectos de la filosofía de Platón. Los temas discutidos son básicamente los siguiebtes: el Alma, el Amor, la Belleza, la Teoría de las Ideas, la Retórica y la Dialéctica.</string>
+
+    <string-array name="options">
+        <item>Philosophers</item>
+        <item>Books</item>
+        <item>Contact us</item>
+    </string-array>
+
+</resources>
